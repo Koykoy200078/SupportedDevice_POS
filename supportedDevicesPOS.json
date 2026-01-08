@@ -23,12 +23,15 @@
 		"M2-Max",
 		"D1",
 		"D1-Pro",
+		"Swift-1",
 		"Swift1",
 		"Swift2",
 		"Swift2Pro",
 		"l23M02",
 		"I23M02",
 		"I22T01",
-		"SM-A566B"
+		"SM-A566B",
+
+		"sdk-gphone64_x86_64"
 	]
 }
